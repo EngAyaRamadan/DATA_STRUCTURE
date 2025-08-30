@@ -1,6 +1,5 @@
 /*Single linked list*/
 #include <iostream>
-
 using namespace std;
 
 class Linked_List
